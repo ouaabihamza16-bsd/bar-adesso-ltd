@@ -145,3 +145,6 @@ h1{font-size:clamp(2.8rem,9vw,6.4rem);line-height:.95;max-width:11ch}
 h2{text-transform:uppercase;letter-spacing:-.02em}
 .form{border:2px solid #111;box-shadow:7px 7px 0 var(--accent)}
 details{border:2px solid #111}
+
+/* draft-preview notice */
+.draft-bar{background:#fff1c9;color:#5a4300;text-align:center;font-size:.88rem;padding:.6rem 1rem;border-bottom:1px solid #ecd58a;line-height:1.4}
